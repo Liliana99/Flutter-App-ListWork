@@ -1,0 +1,47 @@
+name: bloc_my_work
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  flutter_neumorphic: ^1.0.1
+  animated_text_kit: ^2.0.0
+  meta: ^1.1.6
+  flutter_launcher_icons: ^0.7.4
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+
+flutter:
+  
+  uses-material-design: true
+  assets:
+  - assets/fingerprint.png
+  - assets/images/liliana.jpg
+  - assets/avatar_cats.png
+
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico-Regular.ttf
+          style: italic
+    - family: Source Sans Pro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+        - asset: fonts/SourceSansPro-SemiBoldItalic.ttf       
+
