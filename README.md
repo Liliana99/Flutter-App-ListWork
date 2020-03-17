@@ -2,9 +2,15 @@
 
 A new Flutter project.
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Work list in Flutter.
+
+Style Neumorphic fingerprint.
+In this simple app I've used animated_text_kit: ^2.0.0 to animate text on splash screen.
+
 
 ![Output sample](ezgif.com-video-to-gif.gif)
 
